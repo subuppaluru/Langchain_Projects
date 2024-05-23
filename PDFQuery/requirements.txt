@@ -1,0 +1,16 @@
+openai
+langchain
+streamlit
+python-dotenv
+langchain_community
+PyPDF2
+faiss-cpu
+tiktoken
+unstructured
+chromadb
+pdfminer.six
+pillow_heif
+opencv-python
+pdf2image
+pikepdf
+langchain-openai
